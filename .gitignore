@@ -1,0 +1,6 @@
+.venv
+*.keras
+*.sqlite
+*.pyc
+__pycache__
+backend/images
